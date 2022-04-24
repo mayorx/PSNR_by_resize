@@ -31,7 +31,7 @@ This repo demonstrates the "PSNR by resizing" is inappropriate, otherwise, I can
 1. download the [predicted results](https://pan.baidu.com/s/1LdjRwLcWVjgwCFwTJ96wiw?pwd=f7p3), and unzip it (in ./NAFNet-GoPro-width64-visual)
 2. download the [ground truth](https://pan.baidu.com/s/1wPfPJANoUk5z8Dq99yTPCw?pwd=b66v), and unzip it (in ./GoPro-GT)
 3. run ```python calc_resized_psnr.py```
-    * [modify the size of comparison]()
+    * [modify the size of comparison](https://github.com/mayorx/PSNR_by_resize/blob/main/calc_resized_psnr.py#L23-L24)
 
 
 <details>
