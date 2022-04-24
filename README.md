@@ -3,11 +3,7 @@ A huge "breakthrough" in image restoration by resizing the ground truth.
 
 ### Introduction
 Recently, some work claims that they beat all the previous image restoration methods, by a big margin (over 5. dB).
-However, this huge "breakthrough" was mainly accomplished by resizing the ground truth image and calculate the PSNR on it, e.g.:
-
-<img src="./figures/their_claim.jpg" style="zoom:50%;" />
-
-
+However, this huge "breakthrough" was mainly accomplished by resizing the ground truth image and calculate the PSNR on it.
 This repo demonstrates the "PSNR by resizing" is inappropriate, otherwise, I can claim that: **this repo achieves over 115 dB on GoPro dataset, exceeds the previous SOTA 80 dB**.
 
 ### Results on GoPro by resizing the ground truth
