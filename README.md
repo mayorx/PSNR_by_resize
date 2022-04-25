@@ -1,6 +1,6 @@
 # PSNR_by_resize
 
-This repo demonstrates calculate PSNR by resizing the ground truth might be **inappropriate**, as it only brings a metric improvement and does not really improve the image quality.
+This repo demonstrates that calculating PSNR by resizing the ground truth might be **inappropriate**, as it only brings a metric improvement and does not really improve the image quality.
 
 ### Results on GoPro by resizing the ground truth
 
